@@ -254,3 +254,80 @@ git status
 git config --global --unset user.name
 git config --global --unset user.email
 git config --global --list
+git status
+cd 1hk24cs145
+git status
+cd 1hk24cs145
+git status
+pwd
+cd 1hk24cs145
+grt config --globaluser.name'1hk24cs145'
+git config --globaluser.name'1hk24cs145'
+git config --globaluser.email'1hk24cs145@gmail.com'
+git config --global user.name'1hk24cs145'
+git config --global user.email'1hk24cs145@gmail.com'
+mkdir labubu1
+cd labubu1
+git init
+echo 'hello world'
+git status
+git add hello.txt
+git commit -m'my 1st commit'
+git config --global user.name '1hk24cs145'
+git config --global user.email '1hk24cs145@gmail.com'
+cd labubu1
+mkdir labubu1
+cd labubu1
+git init
+echo 'hello world'
+git status
+git add hello.txt
+git commit -m 'my first commit'
+clear
+cd labubu1
+git init
+echo 'hello world'
+git status
+git hell.txt
+echo 'hello world' > 'hello.txt'
+git status
+git add --a
+git status
+git commit -m 'my 1st commit '
+git log --oneline
+git statusecho 'hello world'
+cd labubu1
+cd labubu1
+git status
+git log
+git status
+git status
+git add --a
+git status
+git commit -m 'tersdkjf'
+git log
+echo 'hloooooooooooo' > 'hello.txt'
+git commit -m 'tersdkjggfdf'
+git add --a
+git log
+git add --a
+git commit -m 'tersdkjggfdf'
+git log
+git config --global --unset user.1hk24cs145
+git config --global --unset user.1hk24cs145
+git config --global --unset user.
+git config --global --unset user.1hk24cs145@gmail.com
+git config --global --list
+git config --global --unset user.name
+git config --global --unset user.email
+git config --global --list
+git restore --a
+git helpp
+git help
+git clone --a
+git log
+clear
+git log
+polemon
+                                                                                                                                       
+           aY12 1Y9IUJK
