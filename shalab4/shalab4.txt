@@ -1,1 +1,0 @@
-Cloning means making a copy of the remote repo onto your computer, so you can work on it
